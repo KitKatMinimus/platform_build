@@ -34,6 +34,7 @@ PRODUCT_PACKAGES := \
     Keyguard \
     LatinIME \
     Launcher2 \
+    Launcher3 \
     MusicFX \
     OneTimeInitializer \
     PrintSpooler \
